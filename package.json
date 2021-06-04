@@ -1,0 +1,17 @@
+{
+  "name": "payment_trip",
+  "version": "1.0.0",
+  "description": "Algorithm to enter a Destination and the amount of fees paid for the trip.You must show the total value of the trip and how much you have to pay in each installment. Also keep in mind that if the fees are greater than 6, a surcharge of USD 50 is added to the total of the trip.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/payment_fees_trip"
+  },
+  
+ 
+  "keywords": ["js","javascript","calculation","trip","pay","destination","fees","fee","payment"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
